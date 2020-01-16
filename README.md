@@ -1,2 +1,2 @@
-# 20MA573-tmp
+# 20MA573-YuningDing
 Computational finance
