@@ -1,2 +1,2 @@
-# 20MA573-YuningDing
+# 20MA573-Yuning Ding
 Computational finance
