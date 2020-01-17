@@ -6,4 +6,4 @@ Computational finance
 
 ## in class practice
 - [prj01](src/prj01.ipynb)
-
+- [prj02](src/prj02.ipynb)
