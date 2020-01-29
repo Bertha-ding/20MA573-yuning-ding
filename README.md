@@ -1,8 +1,8 @@
 # 20MA573-Yuning Ding
 Computational finance
 ## homeworks
--hw1 is going to be here
--hw2 is here
+-[HW1](HW/HW1_grid_escape.ipynb)
+-[hw2](hw/hw2.ipynb)
 
 ## in class practice
 - [prj01](src/prj01.ipynb)
