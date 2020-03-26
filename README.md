@@ -14,6 +14,8 @@ Computational finance
 - [hw5-2](hw/hw5-2.ipynb)
 - [hw6-1](hw/hw6-1.ipynb)
 - [hw6-2](hw/573hw6-2.pdf)
+- [hw7-1psuedo](hw/573hw7-1.pdf)
+- [hw7-2code](hw/hw7-2.ipynb)
 ## in class practice
 - [prj01](src/prj01.ipynb)
 - [prj02](src/prj02.ipynb)
